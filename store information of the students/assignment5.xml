@@ -1,0 +1,36 @@
+<?xml-stylesheet type="text/css" href="style.css" ?>
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1> STUDENTS DESCRIPTION </h1>
+</head>
+<students>
+<student>
+<USN>USN : 2TG21CS4001</USN>
+<name>NAME : Jyoti</name>
+<college>COLLEGE : TCE</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<year>YEAR : 2007</year>
+<e-mail>E-Mail : Jyoti@gmail.com</e-mail>
+</student>
+<student>
+<USN>USN : 2TG20EC019</USN>
+<name>NAME : Rohini</name>
+<college>COLLEGE : TCE</college>
+<branch>BRANCH : Electronics Engineering</branch>
+<year>YEAR : 2007</year>
+<e-mail>E-Mail : rohini@gmail.com</e-mail>
+</student>
+<student>
+<USN>USN : 3GN07IS001</USN>
+<name>NAME : CHETHAN</name>
+
+<college>COLLEGE : TCE</college>
+<branch>BRANCH : Informatin science Engineering
+</branch>
+<year>YEAR : 2007</year>
+<e-mail>E-Mail : chethan@gmail.com</e-mail>
+</student>
+</students>
+
+</html>
